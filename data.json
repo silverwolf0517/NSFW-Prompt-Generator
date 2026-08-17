@@ -1,0 +1,49 @@
+{
+  "templates": [
+    {
+      "name": "Character prompt",
+      "text": "1girl, very sweaty, shiny sweaty skin, lots of steam, [location], [lighting], [pose], [pose], [pose]\n\nGirl: [body type], [body type], [body type], [hair length] hair, [hair color]{gradient hair}{gradient hair} hair, [hair style], [hair style], [bangs], {colour}{hair ornament}, (normal eyes{colour}{eyes}|heterochromia{left eye}{colour}{right eye}{color}), {eyelash length}{colour}{eyelashes}, {highlight amount}{colour}{highlight}, {colour}{frosted tips}, {colour}{underdye}, {streak 1}{colour}{streak 2}, {colour}{lipstick}, {colour}{eyeshadow and mascara}, [stomach], {colour}{stomach accessory1}, {colour}{stomach accessory 2}, {colour}{nail polish}, nude, [breast size] breasts, [sagging?], {nipple size}{nipples} nipples, (smooth[smooth]|pubic hair{size}{colour})sticky dripping pussy, beautiful eyes, detailed eyes, high definition eyes, ultra detailed eyes, vivid eyes, vibrant eyes, \n\nrealistic art, fine detail, depth of field, 8k photo, HDR, dynamic lighting, taken with Canon EOS R5, DSLR, 75mm lens, cinematic anime, detailed girl, detailed lighting, sharp focus,"
+    }
+  ],
+  "arrays": {
+    "colour": [
+      "blue",
+      "green",
+      "gold"
+    ],
+    "location": [],
+    "lighting": [],
+    "pose": [],
+    "body type": [],
+    "hair length": [],
+    "hair color": [],
+    "gradient hair": [],
+    "hair style": [],
+    "bangs": [],
+    "hair ornament": [],
+    "eyes": [],
+    "left eye": [],
+    "right eye": [],
+    "color": [],
+    "eyelash length": [],
+    "eyelashes": [],
+    "highlight amount": [],
+    "highlight": [],
+    "frosted tips": [],
+    "underdye": [],
+    "streak 1": [],
+    "streak 2": [],
+    "lipstick": [],
+    "eyeshadow and mascara": [],
+    "stomach": [],
+    "stomach accessory1": [],
+    "stomach accessory 2": [],
+    "nail polish": [],
+    "breast size": [],
+    "sagging?": [],
+    "nipple size": [],
+    "nipples": [],
+    "smooth": [],
+    "size": []
+  }
+}

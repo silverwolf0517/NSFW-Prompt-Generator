@@ -1,0 +1,322 @@
+{
+  "templates": [
+    {
+      "name": "Character prompt",
+      "text": "1girl, very sweaty, shiny sweaty skin, lots of steam, [location], [lighting], [pose], [pose], [pose]\n\nGirl: [body type], [body type], [skin], [hair length] hair, [hair colour][gradient hair][gradient hair] hair, [hair type] hair, [hair style], [hair style], [bangs], {colour} {hair ornament} {side of head}, (normal eyes{colour} {eyes}|heterochromia{left eye} {colour} {right eye} {colour}), {eyelash length} {colour} {eyelashes}, {highlight amount} {colour} {highlight}, {colour} {frosted tips}, {colour} {underdye}, {streak 1} {colour} {streak 2}, {colour} {lipstick}, {colour} {eyeshadow and mascara}, [stomach], {metal colour} {stomach accessory1}, {metal colour} {stomach accessory 2}, {colour} {nail polish}, nude, [breast size], [sagging?], [nipple colour], [nipple size] [nipples] nipples, (smooth[smooth]|pubic hair{size} {hair colour}) sticky dripping pussy, beautiful eyes, detailed eyes, high definition eyes, ultra detailed eyes, vivid eyes, vibrant eyes, \n\nrealistic art, fine detail, depth of field, 8k photo, HDR, dynamic lighting, taken with Canon EOS R5, DSLR, 75mm lens, cinematic anime, detailed girl, detailed lighting, sharp focus,"
+    }
+  ],
+  "arrays": {
+    "colour": [
+      "blue",
+      "gold",
+      "red",
+      "pink",
+      "orange",
+      "yellow",
+      "purple",
+      "turquoise",
+      "brown",
+      "beige",
+      "white",
+      "grey",
+      "black",
+      "silver",
+      "green"
+    ],
+    "location": [
+      "she is at the beach, white sand, palm trees, sparkling waves, gulls, waves",
+      "she is in an oriental garden, colorful oriental flowers, oriental pagodas in the background",
+      "she is at a winter market, snow, wooden stalls, fairy lights",
+      "she is in a bedroom, bed, side table, lamp, window",
+      "she is in an ancient temple, crumbling ruins, cracked pillars, ivy, moss",
+      "she is on a busy city street, lots of shops, crowds of people",
+      "she is on a mountain top, windy, rugged peaks, taller mountains in the background"
+    ],
+    "lighting": [
+      "night, moonlight, starry sky",
+      "sunset, orange glow",
+      "sunrise, pink glow",
+      "sunny, sunlight",
+      "harsh sunlight",
+      "dark sky, dark clouds blocking sun, raining"
+    ],
+    "pose": [
+      "arms up, armpits, armpit crease",
+      "spreading legs",
+      "squatting",
+      "tongue out",
+      "bending forwards",
+      "on knees",
+      "standing split",
+      "close up",
+      "low angle shot"
+    ],
+    "body type": [
+      "slender",
+      "voluptuous",
+      "petite",
+      "short",
+      "tall",
+      "chubby",
+      "fat",
+      "athletic",
+      "muscular",
+      "curvy"
+    ],
+    "hair length": [
+      "very long",
+      "long",
+      "medium length",
+      "shoulder length",
+      "very short",
+      "short"
+    ],
+    "gradient hair": [
+      "-to-blue",
+      "-to-green",
+      "-to-red",
+      "-to-yellow",
+      "-to-beige",
+      "-to-orange",
+      "-to-pink",
+      "-to-purple",
+      "-to-gold",
+      "-to-silver",
+      "-to-black",
+      "-to-white",
+      "-to-turquoise",
+      "-to-brown",
+      "-to-blond",
+      "-to-auburn",
+      "-to-grey"
+    ],
+    "hair style": [
+      "high ponytail",
+      "ponytail",
+      "single large hairbun",
+      "single small hairbun",
+      "bob cut",
+      "drill hair",
+      "folded ponytail",
+      "french braid",
+      "dutch braid",
+      "hair loop",
+      "fishtail braid",
+      "braided hair",
+      "afro",
+      "twintails",
+      "pigtail on the left hand side of her head",
+      "pigtail on the right hand side of her head",
+      "low ponytail",
+      "high twintails",
+      "low twintails",
+      "wolf cut",
+      "mullet",
+      "dreadlocks"
+    ],
+    "bangs": [
+      "blunt bangs",
+      "diagonally cut bangs",
+      "curtained hair",
+      "hair between eyes",
+      "eye covering bangs completely covering her left eye",
+      "eye covering bangs completely covering her right eye",
+      "eye covering bangs completely covering both of her eyes",
+      "slicked back hair",
+      "bare forehead",
+      "longer strands of hair either side of her head"
+    ],
+    "hair ornament": [
+      "ribbon bow",
+      "leaf",
+      "gemstone bronze circlet",
+      "gemstone gold circlet",
+      "gemstone silver circlet",
+      "gemstone bronze tiara",
+      "gemstone gold tiara",
+      "gemstone silver tiara",
+      "gemstone butterfly hair ornament",
+      "hair bobble",
+      "hair clips",
+      "head band",
+      "hair tubes"
+    ],
+    "eyes": [
+      "eyes"
+    ],
+    "left eye": [
+      "different colored eyes, heterochromia, her left eye is"
+    ],
+    "right eye": [
+      "her right eye is"
+    ],
+    "eyelash length": [
+      "long",
+      "very long"
+    ],
+    "eyelashes": [
+      "eyelashes"
+    ],
+    "highlight amount": [
+      "lots of"
+    ],
+    "highlight": [
+      "highlights in her hair"
+    ],
+    "frosted tips": [
+      "frosted tips"
+    ],
+    "underdye": [
+      "underdye"
+    ],
+    "streak 1": [
+      "large"
+    ],
+    "streak 2": [
+      "streak in the left hand side of her bangs",
+      "streak in the right hand side of her bangs",
+      "hair on the left hand side of her face",
+      "hair on the right hand side of her face"
+    ],
+    "lipstick": [
+      "lipstick"
+    ],
+    "eyeshadow and mascara": [
+      "eyeshadow and mascara"
+    ],
+    "stomach": [
+      "hyper muscular stomach and sides, rock hard abs",
+      "chubby stomach"
+    ],
+    "stomach accessory1": [
+      "belly chain",
+      "navel piercing"
+    ],
+    "stomach accessory 2": [
+      "belly chain",
+      "navel piercing"
+    ],
+    "nail polish": [
+      "nail polish"
+    ],
+    "breast size": [
+      "flat chest",
+      "small breasts",
+      "medium breasts",
+      "huge breasts",
+      "hyper huge breasts",
+      "massive breasts",
+      "gigantic breasts"
+    ],
+    "sagging?": [
+      "sagging low hanging breasts",
+      "perky breasts"
+    ],
+    "nipple size": [
+      "small",
+      "huge"
+    ],
+    "nipples": [
+      "erect",
+      "inverted",
+      "pierced"
+    ],
+    "smooth": [
+      "smooth"
+    ],
+    "size": [
+      "huge thick bushy patch",
+      "small patch",
+      "shaved patch"
+    ],
+    "skin": [
+      "tanned",
+      "tanned, tanlines",
+      "dark brown tanned skin",
+      "dark brown tanned skin, extreme white boob and pussy tanlines",
+      "red skin, colored skin",
+      "green skin, colored skin",
+      "blue skin, colored skin",
+      "orange skin, colored skin",
+      "purple skin, colored skin",
+      "pink skin, colored skin",
+      "white skin, colored skin",
+      "black skin, colored skin",
+      "brown skin, colored skin",
+      "grey skin, colored skin",
+      "gold skin, colored skin",
+      "silver skin, colored skin",
+      "beige skin, colored skin",
+      "turquoise skin, colored skin",
+      "yellow skin, colored skin"
+    ],
+    "hair colour": [
+      "red",
+      "blue",
+      "green",
+      "yellow",
+      "beige",
+      "pink",
+      "purple",
+      "orange",
+      "turquoise",
+      "white",
+      "black",
+      "brown",
+      "grey",
+      "blond",
+      "auburn",
+      "gold",
+      "silver"
+    ],
+    "hair type": [
+      "messy",
+      "straight",
+      "wavy",
+      "voluminous",
+      "frizzy",
+      "curly",
+      "blunt"
+    ],
+    "metal colour": [
+      "gold",
+      "silver",
+      "bronze"
+    ],
+    "nipple colour": [
+      "red nipples, colored nipples",
+      "blue nipples, colored nipples",
+      "green nipples, colored nipples",
+      "yellow nipples, colored nipples",
+      "beige nipples, colored nipples",
+      "orange nipples, colored nipples",
+      "black nipples, colored nipples",
+      "brown nipples, colored nipples",
+      "grey nipples, colored nipples",
+      "turquoise nipples, colored nipples",
+      "pink nipples, colored nipples",
+      "purple nipples, colored nipples",
+      "white nipples, colored nipples",
+      "gold nipples, colored nipples",
+      "silver nipples, colored nipples"
+    ],
+    "side of head": [
+      "left hand side of her head",
+      "right hand side of her head",
+      "front of her head",
+      "back of her head"
+    ]
+  },
+  "required": {
+    "hair colour": true,
+    "hair type": true,
+    "breast size": true,
+    "bangs": true,
+    "hair style": true,
+    "hair length": true,
+    "body type": true,
+    "pose": true,
+    "lighting": true,
+    "location": true
+  }
+}
